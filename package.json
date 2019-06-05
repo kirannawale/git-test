@@ -1,0 +1,25 @@
+{
+  "name": "git-setup",
+  "version": "1.0.0",
+  "description": "git set guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirannawale/git-test.git"
+  },
+  "keywords": [
+    "git",
+    "setup",
+    "info",
+    "explore"
+  ],
+  "author": "kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirannawale/git-test/issues"
+  },
+  "homepage": "https://github.com/kirannawale/git-test#readme"
+}
